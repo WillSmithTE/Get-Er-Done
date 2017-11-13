@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="GetErDoneFx:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GetErDoneFx_jar</output-path>
+    <root id="archive" name="GetErDoneFx.jar">
+      <element id="module-output" name="GetErDoneFx" />
+    </root>
+  </artifact>
+</component>
